@@ -1,5 +1,5 @@
 header {
-  height: 125vh;
+  height: 100vh;
   padding-top: 7rem;
   overflow: hidden;
 }
@@ -82,7 +82,7 @@ header {
 
 @media screen and (max-width: 600px){
   header{
-    height: 125vh;
+    height: 100vh;
     
   }
   .header_socials, .scroll_down {
