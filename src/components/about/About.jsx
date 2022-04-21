@@ -2,6 +2,8 @@ import React from 'react'
 import './about.css'
 import ME from '../../assets/me-about.jpg'
 
+
+
 const About = () => {
   return (
     <section id='about'>
@@ -10,7 +12,7 @@ const About = () => {
       <div className="container about_cotainer">
         <div className="about_me">
         <div className="about_me-image">
-          <img src="{ME}" alt="About Imge"/>
+        <img src={ME} alt="Minha imagem" />
         </div>
         </div>
 
