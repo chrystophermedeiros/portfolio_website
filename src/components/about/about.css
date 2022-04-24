@@ -31,13 +31,13 @@
 .about_cards {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 1.5rem;
+    gap: 1rem;
 }
 
 .about_card {
     background: var(--color-bg-variant);
     border: 1px solid transparent;
-    border-radius: 1rem;
+    border-radius: 2.5rem;
     padding: 2rem;
     text-align: center;
     transition: var(--transition);
