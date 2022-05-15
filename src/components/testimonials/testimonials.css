@@ -1,8 +1,6 @@
 .container.testimonials_container{
   width: 40%;
-  display:grid;
-  grid-template-columns: repeat(1fr);
-  gap: 1rem;
+  padding-bottom: 3rem;
   
    
   
@@ -39,13 +37,17 @@
    
 }
 
+.swiper-pagination-clickable .swiper-pagination-bullet{
+  background: var(--color-primary);
+}
+
 
 /* ===================== ESTILOS PARA TABLETS ===================== */
 
 @media screen and (max-width: 1024px) {
-  .portfolio_container {
-    grid-template-columns: 1fr 1fr;
-    gap: 1.2rem;
+  .container.testimonials_container{
+    width: 60%;
+        
   }
   
   
@@ -55,10 +57,13 @@
 
 
 @media screen and (max-width: 600px) {
-  .portfolio_container {
-    grid-template-columns: 1fr;
-    gap: 1rem;
+  .container.testimonials_container{
+    width: var(--container--width-ms);
+        
   }
-  
+  .client_review {
+    width: var(--container--width-ms);
+  }
+
 
 }
