@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chrystophermedeiros/portfolio_website/static/css/main.79dfb9f8.css",
+    "main.js": "/chrystophermedeiros/portfolio_website/static/js/main.40f2702f.js",
+    "static/media/portfolio5.png": "/chrystophermedeiros/portfolio_website/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/chrystophermedeiros/portfolio_website/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/chrystophermedeiros/portfolio_website/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/chrystophermedeiros/portfolio_website/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/chrystophermedeiros/portfolio_website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/chrystophermedeiros/portfolio_website/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/cv.pdf": "/chrystophermedeiros/portfolio_website/static/media/cv.5aef7592e9dd7a0d0110.pdf",
+    "static/media/hackerr.png": "/chrystophermedeiros/portfolio_website/static/media/hackerr.f5ba98bb19bd6e556dd6.png",
+    "static/media/hacker.png": "/chrystophermedeiros/portfolio_website/static/media/hacker.e47d9901d262e32ea1e6.png",
+    "index.html": "/chrystophermedeiros/portfolio_website/index.html",
+    "main.79dfb9f8.css.map": "/chrystophermedeiros/portfolio_website/static/css/main.79dfb9f8.css.map",
+    "main.40f2702f.js.map": "/chrystophermedeiros/portfolio_website/static/js/main.40f2702f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79dfb9f8.css",
+    "static/js/main.40f2702f.js"
+  ]
+}
