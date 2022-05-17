@@ -82,9 +82,9 @@ header {
 
 @media screen and (max-width: 600px){
   header{
-    height: auto;
-    width: 80%;
-    
+    text-align: center;
+    height: 100%;
+    position: relative;
   }
   .header_socials, .scroll_down {
     display: none;
