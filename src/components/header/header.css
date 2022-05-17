@@ -1,7 +1,6 @@
 header {
   display: grid;
   grid-template-columns: 1fr;
- 
   margin-top: 4rem;
 }
 
@@ -51,7 +50,7 @@ header {
   position: relative;
   left: calc(50% - 11rem);  
   margin-top: 1rem;
-  border-radius: 3rem 3rem 0 0;
+  border-radius: rem 3rem 0 0;
   overflow: hidden;
  
 
