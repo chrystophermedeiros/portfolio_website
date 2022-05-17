@@ -83,10 +83,11 @@ header {
 @media screen and (max-width: 600px){
   header{
     height: auto;
+    width: 80%;
     
   }
   .header_socials, .scroll_down {
-    display: flex;
+    display: none;
   }
 }
 
