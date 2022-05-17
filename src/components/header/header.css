@@ -1,7 +1,8 @@
 header {
-  height: 60vh;
-  padding-top: 4rem;
-  overflow: hidden;
+  display: grid;
+  grid-template-columns: 1fr;
+ 
+  margin-top: 4rem;
 }
 
 .header_container {
@@ -47,8 +48,7 @@ header {
   background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
   height: 30rem;
-  max-height: max-content;
-  position: absolute;
+  position: relative;
   left: calc(50% - 11rem);  
   margin-top: 1rem;
   border-radius: 5rem 5rem 0 0;
@@ -83,7 +83,7 @@ header {
 
 @media screen and (max-width: 600px){
   header{
-    height: 60vh;
+    height: auto;
     
   }
   .header_socials, .scroll_down {
