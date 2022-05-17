@@ -1,6 +1,6 @@
 header {
-  height: 100vh;
-  padding-top: 7rem;
+  height: 60vh;
+  padding-top: 4rem;
   overflow: hidden;
 }
 
@@ -47,6 +47,7 @@ header {
   background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
   height: 30rem;
+  max-height: max-content;
   position: absolute;
   left: calc(50% - 11rem);  
   margin-top: 1rem;
@@ -82,7 +83,7 @@ header {
 
 @media screen and (max-width: 600px){
   header{
-    height: 100vh;
+    height: 60vh;
     
   }
   .header_socials, .scroll_down {
