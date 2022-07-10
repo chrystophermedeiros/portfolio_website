@@ -89,6 +89,19 @@ header {
   .header_socials, .scroll_down {
     display: none;
   }
+
+  .me {
+    width: 18rem;
+    height: 25rem;
+    position: relative;
+    left: calc(60% - 11rem);  
+    margin-top: 1rem;
+    border-radius: 3rem 3rem 0 0;
+    overflow: hidden;
+      
+  
+ 
+  }
 }
 
 

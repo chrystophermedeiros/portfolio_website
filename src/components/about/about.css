@@ -103,7 +103,8 @@
 
     .about_cards {
         grid-template-columns: 1fr 1fr;
-        gap: 1rem;
+        grid-column: auto;
+        gap: 0.8rem;
     }
 
 
