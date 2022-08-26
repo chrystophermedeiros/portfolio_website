@@ -42,8 +42,8 @@ const data= [
     id: 5,
     image: IMG5,
     title: 'Dashboard',
-    github: 'https://github.com/chrystophermedeiros/animate-sprite',
-    demo: 'https://chrystophermedeiros.github.io/animate-sprite/'
+    github: 'https://github.com/chrystophermedeiros/',
+    demo: 'https://portfolio-cms99.netlify.app/static/media/Dashboard.80a26d0ae7b226052ae1.png'
   },
 
   
