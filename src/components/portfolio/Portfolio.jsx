@@ -4,6 +4,7 @@ import IMG1 from '../../assets/portfolio1.png'
 import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.png'
 import IMG4 from '../../assets/portfolio4.png'
+import IMG5 from '../../assets/Dashboard.png'
 
 const data= [
   {
@@ -33,6 +34,14 @@ const data= [
     id: 4,
     image: IMG4,
     title: 'Animate-sprite',
+    github: 'https://github.com/chrystophermedeiros/animate-sprite',
+    demo: 'https://chrystophermedeiros.github.io/animate-sprite/'
+  },
+
+  {
+    id: 5,
+    image: IMG5,
+    title: 'Dashboard',
     github: 'https://github.com/chrystophermedeiros/animate-sprite',
     demo: 'https://chrystophermedeiros.github.io/animate-sprite/'
   },
