@@ -22,26 +22,23 @@ const About = () => {
             <article className="about_card">
               <FaAward className="about_icon" />
               <h5>Experiencia</h5>
-              <small>Mais de 3 anos de trabalho </small>
+              <small>Mais de 7 anos de trabalho </small>
             </article>
 
             <article className="about_card">
               <FiUsers className="about_icon" />
               <h5>Clientes</h5>
-              <small>Atualmente 2 clientes no Brasil </small>
+              <small>Atualmente 1 clientes no Brasil </small>
             </article>
 
             <article className="about_card">
               <VscFolderLibrary className="about_icon" />
               <h5>Projetos</h5>
-              <small>5 projetos completos </small>
+              <small>4 projetos completos </small>
             </article>
           </div>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            doloribus quam inventore asperiores, autem quaerat tempora voluptas
-            ut doloremque perspiciatis dicta numquam quas iste repellendus
-            voluptatem eaque. Fugit, eaque explicabo.
+            Sou Chrystopher Medeiros da Silva, tenho 26 anos, amo tecnologia, ensinar e aprender. Procuro sempre está me aperfeiçoando e buscando novas tecnologias.  
           </p>
 
           <a href="#contact" className="btn btn-primary">

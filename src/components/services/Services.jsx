@@ -11,7 +11,7 @@ const Services = () => {
       <div className='container services_container'>
           <article className='service'>
             <div className="service_head">
-              <h3>UI/UX Designer</h3>
+              <h3>Dashboard em Excel</h3>
             </div>
             <ul className="service_list">
               <li>
@@ -45,22 +45,22 @@ const Services = () => {
             <ul className="service_list">
               <li>
                < BsCheck className="service_list-icon"/>
-               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro, minus accusamus. </p>
+               <p>HTML5 - tenho uma boa experiência em criar páginas com as tags semânticas.. </p>
               </li>
 
               <li>
                < BsCheck className="service_list-icon"/>
-               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro, minus accusamus. </p>
+               <p>CSS3 - tenho uma boa experiencia para estilizar e modelar a pagina de acordo com projeto. </p>
               </li>
 
               <li>
                < BsCheck className="service_list-icon"/>
-               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro, minus accusamus. </p>
+               <p>JS - tenho conhecimento em: funções, arrays , objeto, algoritmo, logica, looping entre outros conceitos. </p>
               </li>
 
               <li>
                < BsCheck className="service_list-icon"/>
-               <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro, minus accusamus. </p>
+               <p>React - desenvolvi apenas 2. </p>
               </li>
             </ul>
           </article>
