@@ -46,7 +46,7 @@ header {
 .me {
   background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
-  height: 30rem;
+  height: 24rem;
   position: relative;
   left: calc(50% - 11rem);  
   margin-top: 1rem;
@@ -54,6 +54,11 @@ header {
   overflow: hidden;
  
 
+}
+.me img {
+  width: 100%;
+  height: 100%;
+ 
 }
 
 /*===================== SCROLL DOWN =====================*/
@@ -92,7 +97,7 @@ header {
 
   .me {
     width: 18rem;
-    height: 25rem;
+    height: 20rem;
     position: relative;
     left: calc(60% - 11rem);  
     margin-top: 1rem;
