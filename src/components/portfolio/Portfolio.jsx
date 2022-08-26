@@ -1,59 +1,44 @@
 import React from 'react'
 import "./portfolio.css"
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG1 from '../../assets/portfolio1.png'
+import IMG2 from '../../assets/portfolio2.png'
+import IMG3 from '../../assets/portfolio3.png'
+import IMG4 from '../../assets/portfolio4.png'
 
 const data= [
   {
     id: 1,
     image: IMG1,
-    title: 'Este é um título de item de portfólio',
-    github: 'https://github.com/',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'Dssmovies avalie o filme',
+    github: 'https://github.com/chrystophermedeiros/dsmovie',
+    demo: 'https://dssmovies.netlify.app/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Este é um título de item de portfólio',
-    github: 'https://github.com/',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'projeto-android',
+    github: 'https://github.com/chrystophermedeiros/projeto-android',
+    demo: 'https://chrystophermedeiros.github.io/projeto-android/'
   },
 
   {
     id: 3,
     image: IMG3,
-    title: 'Este é um título de item de portfólio',
-    github: 'https://github.com/',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'Projeto-cordel',
+    github: 'https://github.com/chrystophermedeiros/projeto-cordel',
+    demo: 'https://chrystophermedeiros.github.io/projeto-cordel/'
   },
 
   {
     id: 4,
     image: IMG4,
-    title: 'Este é um título de item de portfólio',
-    github: 'https://github.com/',
-    demo: 'https://dribbble.com/Alien_pixels'
+    title: 'Animate-sprite',
+    github: 'https://github.com/chrystophermedeiros/animate-sprite',
+    demo: 'https://chrystophermedeiros.github.io/animate-sprite/'
   },
 
-  {
-    id: 5,
-    image: IMG5,
-    title: 'Este é um título de item de portfólio',
-    github: 'https://github.com/',
-    demo: 'https://dribbble.com/Alien_pixels'
-  },
+  
 
-  {
-    id: 6,
-    image: IMG6,
-    title: 'Este é um título de item de portfólio',
-    github: 'https://github.com/',
-    demo: 'https://dribbble.com/Alien_pixels'
-  }
 ]
 
 const Portfolio = () => {
