@@ -90,7 +90,14 @@ header {
     text-align: center;
     height: 100%;
     position: relative;
+    margin-top: 1rem;
+
   }
+
+  header h1{
+    font-size: 1rem;
+  }
+
   .header_socials, .scroll_down {
     display: none;
   }
